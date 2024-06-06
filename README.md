@@ -1,7 +1,3 @@
-Tentu, saya akan membantu Anda membuat dokumentasi untuk proyek Todo App Anda. Berikut adalah draft `README.md` yang dapat Anda gunakan untuk repositori GitHub Anda.
-
----
-
 # Todo App
 
 Todo App adalah aplikasi Android yang dibangun dengan Kotlin untuk mengelola daftar tugas harian. Aplikasi ini juga mengimplementasikan pengambilan lokasi pengguna untuk mencari tempat sekitar berdasarkan kategori menggunakan Google Maps API.
