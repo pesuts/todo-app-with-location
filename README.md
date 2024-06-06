@@ -128,30 +128,30 @@ kapt {
 
 ## Screenshots
 
-<img src="screenshots/Screenshot_20240531_023230.png" height="450">
-<img src="screenshots/Screenshot_20240531_023317.png" height="450">
-<img src="screenshots/Screenshot_20240531_023346.png" height="450">
-<img src="screenshots/Screenshot_20240531_023356.png" height="450">
-<img src="screenshots/Screenshot_20240531_023425.png" height="450">
-<img src="screenshots/Screenshot_20240531_023459.png" height="450">
-<img src="screenshots/Screenshot_20240531_023520.png" height="450">
-<img src="screenshots/Screenshot_20240531_023559.png" height="450">
-<img src="screenshots/Screenshot_20240531_023629.png" height="450">
-<img src="screenshots/Screenshot_20240531_023649.png" height="450">
-<img src="screenshots/Screenshot_20240531_023903.png" height="450">
-<img src="screenshots/Screenshot_20240531_023921.png" height="450">
-<img src="screenshots/Screenshot_20240531_024001.png" height="450">
-<img src="screenshots/Screenshot_20240531_024016.png" height="450">
-<img src="screenshots/Screenshot_20240531_024656.png" height="450">
-<img src="screenshots/Screenshot_20240531_024711.png" height="450">
-<img src="screenshots/Screenshot_20240531_024811.png" height="450">
-<img src="screenshots/Screenshot_20240531_024841.png" height="450">
-<img src="screenshots/Screenshot_20240531_024857.png" height="450">
-<img src="screenshots/Screenshot_20240531_024911.png" height="450">
-<img src="screenshots/Screenshot_20240531_024918.png" height="450">
-<img src="screenshots/Screenshot_20240531_032433.png" height="450">
-<img src="screenshots/Screenshot_20240531_034101.png" height="450">
-<img src="screenshots/Screenshot_20240531_035118.png" height="450">
-<img src="screenshots/Screenshot_20240531_035126.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_023230.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_023317.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_023346.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_023356.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_023425.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_023459.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_023520.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_023559.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_023629.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_023649.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_023903.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_023921.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_024001.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_024016.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_024656.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_024711.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_024811.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_024841.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_024857.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_024911.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_024918.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_032433.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_034101.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_035118.png" height="450">
+<img src="SCREENSHOTS/Screenshot_20240531_035126.png" height="450">
 
 
